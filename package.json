@@ -1,0 +1,14 @@
+{
+  "author": "Jeremy Noonan <jeremy@samuraicode.com> (http://samuraicode.com/)",
+  "name": "tcl-pixel",
+  "description": "Interface for controlling the Total Control Lighting pixel led strings",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samuraicode/node-tcl-pixel.git"
+  },
+  "main": "tcl_pixel",
+  "engines": {
+    "node": "0.6"
+  }
+}
